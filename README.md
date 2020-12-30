@@ -1,4 +1,4 @@
-# MySQL Example
+# Teste 2 - Watson
 
 This is an example of using [MySQL](https://www.mysql.com/) in a Next.js project.
 
