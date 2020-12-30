@@ -27,7 +27,7 @@ function Entry({ id, title, content }) {
             href={`/entry/edit/${id}?title=${title}&content=${content}`}
             className="h-5 py-0 mx-1"
           >
-            Edit
+            Editar
           </ButtonLink>
           <Button
             disabled={deleting}

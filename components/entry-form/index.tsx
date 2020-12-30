@@ -48,7 +48,7 @@ export default function EntryForm() {
       </div>
       <div className="my-4">
         <label htmlFor="content">
-          <h3 className="font-bold">Content</h3>
+          <h3 className="font-bold">Comentário</h3>
         </label>
         <textarea
           className="shadow border resize-none focus:shadow-outline w-full h-48"

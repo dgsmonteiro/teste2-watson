@@ -22,7 +22,7 @@ export default function EditEntryPage() {
   } else {
     return (
       <>
-        <Nav title="View" />
+        <Nav title="Ver" />
         <Container>
           <h1 className="font-bold text-3xl my-2">...</h1>
           <p>...</p>
